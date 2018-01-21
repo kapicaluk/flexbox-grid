@@ -3,5 +3,5 @@
 
 [kapicaluk.github.io/skills-css](https://kapicaluk.github.io/skills-css/)
 
-![screenshot] (public/screen.png)
+![screenshot](public/screen.png)
 
